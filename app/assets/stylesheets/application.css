@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+
+.test{
+	
+	text-align: center;
+	text-shadow: 1px 1px #ff0001;
+	margin-top: 1cm;
+	margin-right: 2cm;
+	margin-left: 2cm;
+}
+
+.mydv{
+	 border: 10px dotted black;
+    padding: 5px;
+    background: yellow;
+    background-clip: content-box;
+}
